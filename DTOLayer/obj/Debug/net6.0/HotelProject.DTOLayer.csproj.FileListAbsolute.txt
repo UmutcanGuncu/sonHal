@@ -1,0 +1,5 @@
+/Users/umutcanguncu/Desktop/HotelProject-main/DTOLayer/obj/Debug/net6.0/HotelProject.DTOLayer.csproj.AssemblyReference.cache
+/Users/umutcanguncu/Desktop/HotelProject-main/DTOLayer/obj/Debug/net6.0/HotelProject.DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/umutcanguncu/Desktop/HotelProject-main/DTOLayer/obj/Debug/net6.0/HotelProject.DTOLayer.AssemblyInfoInputs.cache
+/Users/umutcanguncu/Desktop/HotelProject-main/DTOLayer/obj/Debug/net6.0/HotelProject.DTOLayer.AssemblyInfo.cs
+/Users/umutcanguncu/Desktop/HotelProject-main/DTOLayer/obj/Debug/net6.0/HotelProject.DTOLayer.csproj.CoreCompileInputs.cache
